@@ -10,3 +10,5 @@ Use arrow keys to control the snake.
 Eat food items to grow longer and earn points.
 Avoid collisions with walls and the snake's tail.
 Try to achieve the highest score possible!
+
+![image](https://github.com/RosuGabriel/Snake/assets/116444103/af717236-01bd-4b02-9a18-6bc7ac332f1e)
