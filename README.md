@@ -1,9 +1,8 @@
 # Snake
 This is a classic Snake game implemented in Python using the Pygame library.  
-Players control a snake that grows in length as it consumes food items, while avoiding collisions with walls and its own tail. The game features smooth controls, colorful graphics, and adjustable difficulty levels. It's a fun project for Python enthusiasts to learn game development basics and explore the capabilities of the Pygame library.
+Players control a snake that grows in length as it consumes food items, while avoiding collisions with walls and its own tail.
 
-How to Play:
-
+How to Play:  
 Install Python and Pygame.  
 Clone the repository or download the source code.  
 Run the main Python file to start the game.  
